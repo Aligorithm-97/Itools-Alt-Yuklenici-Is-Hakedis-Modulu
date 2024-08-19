@@ -4,6 +4,15 @@
 
 I developed a full stack web application called ITOOLS for Innova Service Delivery Unit all by myself. I did everything from scratch. By saying scratch I mean from designing pages in Figma all the way up to the deployment and maintenance. I used React for the frontend side, Express.js(Nodejs) for the backend side. I also used the SQL server as a database and IIS for the deployment process. ITOOLS has been in use since January 2023. It has over 100 users and most of them are using the system daily.
 
+## Accomplished ...
+The development of ITOOLS streamlined the entire process of managing subcontractor progress payments, ensuring that all calculations are accurately performed and that subcontractors receive their payments without issues. Additionally, all payments to subcontractors are processed through ITOOLS, enabling comprehensive tracking of all work and progress payments.
+
+## By Implementing ...
+Using React for the frontend and Express.js (Node.js) for the backend, the project was built from scratch, starting with page designs in Figma. SQL Server was utilized for data management, and IIS was chosen for deployment. The application supports multiple user roles, each with specific access levels, to ensure a controlled and secure workflow.
+
+## Which Led to ...
+These implementations led to a more organized and efficient process for handling subcontractor payments. Before ITOOLS, there was no tracking system in place, which often resulted in delays and errors. Since its deployment in January 2023, the system has gained over 100 daily active users, drastically improving the management and accuracy of progress payments.
+
 # What is - [Itools](https://www.itoolsinnova.com/) ? 
 
 
